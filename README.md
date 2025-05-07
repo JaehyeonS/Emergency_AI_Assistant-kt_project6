@@ -58,7 +58,7 @@ AI가 실시간으로 **상황을 인식**하고 **응급 등급을 분류**한 
 [Naver Map API + DB] → 최적 응급실 3곳 추천<br>
 
 ---
-
+<!--
 ## ▶️ 실행 예시
 
 ```bash
@@ -73,3 +73,4 @@ python classify_emergency.py --input summary.txt
 
 # 응급실 추천
 python recommend_hospitals.py --level 1
+-->
